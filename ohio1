@@ -2,5 +2,5 @@ a=10;
 b=20;
 c=a+b;
 print(c);
-print("I am from Singapur")
-
+print("I am from Singapur");
+print("Ok I am from Ohio");
